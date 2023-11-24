@@ -1,4 +1,3 @@
-setwd("C:/Users/admin/cevikvize/200401077")
 current_dir <- getwd()
 print(current_dir)
 relative_path <- file.path(current_dir, "Vize_Q1_200401077_elifzehra_yılmaz.R")
