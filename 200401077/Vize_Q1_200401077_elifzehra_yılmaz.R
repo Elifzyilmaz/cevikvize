@@ -40,3 +40,5 @@ spotify_token <- function() {
   
   return(output)
 }
+spotify_token()
+

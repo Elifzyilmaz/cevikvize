@@ -1,5 +1,3 @@
-spotify_token()
-
 spotify_search_artist <- function(artist_name) {
   # Spotify Token al
   access_token <- spotify_token()$token
